@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namanbhasin, I am Jaipur,Rajasthan.
+- 👋 Hi, I’m @namanbhasin, I am from Jaipur,Rajasthan.
 - 👀 I’m interested in outdoor games.
 - 🌱 I’m currently learning Data strutctures,C/C++ programming and pyhton skills.
 - 💞️ I’m looking to collaborate on web development projects.
